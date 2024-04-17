@@ -1,0 +1,53 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+.navbar ul{
+    list-style: none; 
+    background-color: rgb(146, 168, 209) ;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    text-align: center;
+    align-self: center;
+    align-items: center;
+    align-content: center;
+}
+.navbar a{
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    text-decoration-color: black;
+}
+
+.navbar a:hover{
+    background-color: rgb(52, 86, 139);
+}
+
+.navbar li{
+    align-items: center;
+    display: inline-block;
+}
+
+.p{
+    background-color: rgb(146, 168, 209);
+}
+th{
+    background-color: rgb(146, 168, 209);
+}
+th,td{
+    padding: 10px;
+}
+
+#td_link1,#td_link2{
+    background-color: lightgrey;
+}
+fieldset{
+    background-color: rgb(146, 168, 209);
+}
+.reg_div {
+    background-color: rgb(146, 168, 209);
+}
+textarea{
+    color: blue;
+}
