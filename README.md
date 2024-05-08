@@ -26,6 +26,6 @@ Feel free to explore, fork, star, and provide feedback on any project. Contribut
 
 ## Contact Me
 
-Should you have any inquiries or require further information, please don’t hesitate to reach out via my [LinkedIn profile](https://www.linkedin.com/in/l%C3%A1szl%C3%B3-s%C3%A1ray-69130a299/) or email me directly at [your-email@example.com](mailto:saray.lacko@gmail.con).
+Should you have any inquiries or require further information, please don’t hesitate to reach out via my [LinkedIn](https://www.linkedin.com/in/l%C3%A1szl%C3%B3-s%C3%A1ray-69130a299/) or email me directly at [saray.lacko@gmail.com](mailto:saray.lacko@gmail.con).
 
 Thank you for visiting my portfolio, and I look forward to the possibility of collaborating with you!
