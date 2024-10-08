@@ -38,7 +38,7 @@ The project meets the following criteria:
 
 The final product is a fully functional web application that allows users to convert currency values between different currencies. The app demonstrates a balance of backend logic (Django and API integration) and frontend design (Bootstrap). 
 
-## Installation and Usage
+##Usage
 
 Follow the steps below to set up and run the project on your local machine:
 
