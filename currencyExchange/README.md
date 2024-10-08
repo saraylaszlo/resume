@@ -24,7 +24,6 @@ The primary objectives of this project were to:
 - **Currency Conversion**: Users can input an amount and select two different currencies for conversion.
 - **Real-time Exchange Rates**: The app uses real-time data from the OpenExchangeRates API (or similar) to fetch the most current exchange rates.
 - **User-Friendly Interface**: The frontend design is responsive and clean, providing a simple interface for users to enter currency codes and amounts.
-- **Error Handling**: The app gracefully handles errors like unsupported currencies or invalid input.
 
 ## Project Requirements
 
