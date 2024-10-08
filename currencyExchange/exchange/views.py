@@ -34,6 +34,7 @@ def currency_exchange(request):
 
             from_rate = rates.get(from_currency, 1)
             to_rate = rates.get(to_currency, 1)
+
             converted_amount = (amount / from_rate) * to_rate
 
             context.update({
@@ -46,6 +47,7 @@ def currency_exchange(request):
 
         except ValueError:
             context['error'] = "Please enter a valid amount."
+
         except Exception as e:
             context['error'] = f"An error occurred: {str(e)}"
 
