@@ -46,3 +46,19 @@ Follow the steps below to set up and run the project on your local machine:
    ```bash
    git clone https://github.com/yourusername/currency-exchange-app.git
    cd currency-exchange-app
+   ```
+2. **Set up a virtual envirement**:
+3. **Install packages**:
+    ```bash
+   pip install -r requirements.txt
+   ```
+4. **Apply migartions**:
+```bash
+   py manage.py migrate
+   ```
+5. **Run sever**:
+```bash
+   py manage.py runserver
+   ```
+6. **Use the application**
+   On port http://127.0.0.1:8000/
