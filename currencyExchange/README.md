@@ -53,11 +53,11 @@ Follow the steps below to set up and run the project on your local machine:
    pip install -r requirements.txt
    ```
 4. **Apply migartions**:
-```bash
+   ```bash
    py manage.py migrate
    ```
 5. **Run sever**:
-```bash
+   ```bash
    py manage.py runserver
    ```
 6. **Use the application**
