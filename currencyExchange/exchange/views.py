@@ -3,7 +3,7 @@ import requests
 
 # Create your views here.
 
-API_KEY = 'd0764cd0335143af9b924d0e16d9dff2'
+API_KEY = "YOUR_API_KEY'
 BASE_URL = 'https://openexchangerates.org/api/latest.json'
 
 
